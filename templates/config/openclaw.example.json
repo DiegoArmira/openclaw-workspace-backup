@@ -1,0 +1,6 @@
+{
+  "agents": {"defaults": {"workspace": "${ACADEMIC_WORKSPACE_ROOT}"}},
+  "gateway": {"bind": "loopback", "auth": {"mode": "token", "token": "${OPENCLAW_GATEWAY_TOKEN}"}},
+  "secrets": {"backend": "${SECRET_BACKEND}"},
+  "profiles": []
+}

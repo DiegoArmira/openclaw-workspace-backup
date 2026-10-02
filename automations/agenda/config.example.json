@@ -1,0 +1,6 @@
+{
+  "timezone": "${TIMEZONE}",
+  "vault_agendas_root": "${VAULT_AGENDAS_ROOT}",
+  "source_policy": "official-first",
+  "automation_enabled": false
+}

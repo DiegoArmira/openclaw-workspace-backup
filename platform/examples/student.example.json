@@ -1,0 +1,7 @@
+{
+  "cell_id": "cell-<usuario>",
+  "workspace_root": "${ACADEMIC_WORKSPACE_ROOT}",
+  "vault_root": "${ACADEMIC_VAULT_ROOT}",
+  "timezone": "${TIMEZONE}",
+  "courses": []
+}

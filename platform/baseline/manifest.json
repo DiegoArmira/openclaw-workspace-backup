@@ -1,0 +1,6 @@
+{
+  "schema_version": 1,
+  "components": ["base-global", "family-academic", "runtime-host"],
+  "portable": true,
+  "requires_local_secrets": true
+}

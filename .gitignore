@@ -1,0 +1,35 @@
+# Secrets and authentication
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.secret.*
+secrets/
+auth/
+oauth/
+cookies/
+browser-profiles/
+
+# Runtime and personal state
+state.json
+**/state.json
+**/*ledger*.json
+**/runtime/
+**/runs/
+**/logs/
+memory/
+academic-state/
+NotasCompartidas/
+recordings/
+transcripts/
+backups/
+*.bak
+*.lock
+
+# Local tools
+.venv/
+__pycache__/
+node_modules/
+.DS_Store
